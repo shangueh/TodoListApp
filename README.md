@@ -5,6 +5,10 @@ This Project is based on React Express Starter Pack from Brad Traversy
 
 > Create full stack apps with React and Express. Run your client and server with a single command.
 
+## Before start
+
+You need a local mongoDB server
+
 ## Quick Start
 
 ```bash
@@ -28,10 +32,7 @@ npm run client
 
 ## App Info
 
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+It's a simple TodoList using Node, Express, React and MongoDB
 
 ### Version
 
